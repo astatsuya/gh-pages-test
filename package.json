@@ -2,7 +2,7 @@
   "name": "gittest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://username.github.io/react-pages",
+  "homepage": "http://astatsuya.github.io/gh-pages-test",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
